@@ -1,0 +1,13 @@
+[ 2023-07-13 05:21:08,891 ] 157 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-07-13 05:21:13,338 ] 27 root - INFO - Entered the date ingestion method or component
+[ 2023-07-13 05:21:13,346 ] 30 root - INFO - Read the dataset as dataframe
+[ 2023-07-13 05:21:13,358 ] 34 root - INFO - Train Test split initiated
+[ 2023-07-13 05:21:13,374 ] 41 root - INFO - Ingestion of the data is completed
+[ 2023-07-13 05:21:13,405 ] 74 root - INFO - Read train and test data completed
+[ 2023-07-13 05:21:13,405 ] 76 root - INFO - Obtaininig preprocessing object
+[ 2023-07-13 05:21:13,406 ] 44 root - INFO - Feature Enginerring of Number Features completed
+[ 2023-07-13 05:21:13,491 ] 52 root - INFO - Feature Engineering of Categorical Features Completed
+[ 2023-07-13 05:21:13,491 ] 61 root - INFO - Column Transforming done
+[ 2023-07-13 05:21:13,494 ] 89 root - INFO - Applying preprocessing object on test and training data
+[ 2023-07-13 05:21:13,527 ] 104 root - INFO - Saved preprocessing object
+[ 2023-07-13 05:21:13,530 ] 32 root - INFO - Splitting train and test data
