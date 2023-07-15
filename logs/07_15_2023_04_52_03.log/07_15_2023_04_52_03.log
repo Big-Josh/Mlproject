@@ -1,0 +1,16 @@
+[ 2023-07-15 04:52:04,031 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-15 04:52:04,039 ] 225 werkzeug - INFO -  * Debugger PIN: 100-747-786
+[ 2023-07-15 04:52:04,351 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-07-15 04:52:04,351 ] 225 werkzeug - INFO -  * Running on http://192.168.43.97:5000/ (Press CTRL+C to quit)
+[ 2023-07-15 04:52:08,391 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 04:52:08,399 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 04:52:08,415 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\utils.py', reloading
+[ 2023-07-15 04:52:08,415 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\utils.py', reloading
+[ 2023-07-15 04:52:08,479 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2023-07-15 04:52:08,487 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+[ 2023-07-15 04:52:08,511 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 04:52:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-07-15 04:52:09,319 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 04:52:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-15 04:52:09,327 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 04:52:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-15 04:52:09,599 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 04:52:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-15 04:52:09,615 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 04:52:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -

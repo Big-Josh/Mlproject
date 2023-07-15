@@ -1,0 +1,51 @@
+[ 2023-07-15 05:03:06,760 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-15 05:03:06,776 ] 225 werkzeug - INFO -  * Debugger PIN: 100-747-786
+[ 2023-07-15 05:03:07,002 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-07-15 05:03:07,002 ] 225 werkzeug - INFO -  * Running on http://192.168.43.97:5000/ (Press CTRL+C to quit)
+[ 2023-07-15 05:03:14,747 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:14] "GET / HTTP/1.1" 200 -
+[ 2023-07-15 05:03:23,186 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:23] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-07-15 05:03:43,213 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-07-15 05:03:43,805 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-15 05:03:43,813 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-15 05:03:43,917 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-15 05:03:43,925 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2023-07-15 05:03:43,997 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:03:43] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-15 05:04:35,349 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:35] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-07-15 05:04:57,663 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-07-15 05:04:57,687 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-15 05:04:57,711 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-15 05:04:57,831 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2023-07-15 05:04:57,831 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-15 05:04:57,903 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:04:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-15 05:08:47,907 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,907 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,907 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,907 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,907 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,915 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,915 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:47,915 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,082 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,228 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,383 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,519 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,519 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,519 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,519 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\OneDrive\\Desktop\\Projects\\MLPROECT\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-07-15 05:08:48,519 ] 225 werkzeug - INFO -  * Detected change in 'c:\\users\\big josh\\onedrive\\desktop\\projects\\mlproect\\src\\pipeline\\predict_pipeline.py', reloading

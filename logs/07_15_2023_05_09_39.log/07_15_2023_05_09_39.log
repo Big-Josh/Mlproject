@@ -1,0 +1,10 @@
+[ 2023-07-15 05:09:39,166 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-15 05:09:39,181 ] 225 werkzeug - INFO -  * Debugger PIN: 100-747-786
+[ 2023-07-15 05:09:39,422 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-07-15 05:09:39,422 ] 225 werkzeug - INFO -  * Running on http://192.168.43.97:5000/ (Press CTRL+C to quit)
+[ 2023-07-15 05:09:50,647 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:09:50] "GET / HTTP/1.1" 200 -
+[ 2023-07-15 05:09:55,130 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:09:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-07-15 05:10:10,211 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:10:10] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-07-15 05:10:37,386 ] 225 werkzeug - INFO - 127.0.0.1 - - [15/Jul/2023 05:10:37] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-07-15 05:13:24,325 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\Big Josh\\anaconda3\\Scripts\\conda-script.py', reloading
