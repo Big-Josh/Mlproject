@@ -4,7 +4,7 @@ Welcome to the Student Performance Prediction Project! This end-to-end machine l
 
 
 ## Project Structure
-## The project structure is organized as follows:
+ The project structure is organized as follows:
 
 
 student-performance-prediction/
