@@ -7,8 +7,8 @@ Welcome to the Student Performance Prediction Project! This end-to-end machine l
  The project structure is organized as follows:
 
 
-student-performance-prediction/
-     ├── artifacts/
+student-performance-prediction/ <br />
+     ├── artifacts/ <br />
      │   └── student_performance.csv
      │   └──model.pkl
      │   └──preprocessor.pkl
