@@ -9,22 +9,22 @@ Welcome to the Student Performance Prediction Project! This end-to-end machine l
 
 student-performance-prediction/ <br />
      ├── artifacts/ <br />
-     │   └── student_performance.csv
-     │   └──model.pkl
-     │   └──preprocessor.pkl
-     │   └──train.csv
-     │   └──test.csv.
-     ├── src/
-     │   ├── data_ingestion.py
-     │   ├── data_transformation.py
-     │   ├──predict_pipeline.py
-     │   └── model_trainer.py
-     ├── main.py
-     ├── utils.py
-     ├── app.py
-     ├── setup.py
-     ├── logger.py
-     ├──exception.py
-     ├── requirements.txt
-     ├── LICENSE
+     │   └── student_performance.csv <br />
+     │   └──model.pkl <br />
+     │   └──preprocessor.pkl <br />
+     │   └──train.csv <br />
+     │   └──test.csv. <br />
+     ├── src/ <br />
+     │   ├── data_ingestion.py <br />
+     │   ├── data_transformation.py <br />
+     │   ├──predict_pipeline.py <br />
+     │   └── model_trainer.py <br />
+     ├── main.py <br />
+     ├── utils.py <br />
+     ├── app.py <br />
+     ├── setup.py <br />
+     ├── logger.py <br />
+     ├──exception.py <br />
+     ├── requirements.txt <br />
+     ├── LICENSE <br />
      └── README.md
